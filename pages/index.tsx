@@ -60,7 +60,7 @@ export default function Home() {
             <>
               <div className='text-base'>
                 <p>
-                  Desemvolvemos vários componentes complexos, que sincronizam seus estados com o tempo do vídeo para fornecer uma ferramente
+                  Desenvolvemos vários componentes complexos, que sincronizam seus estados com o tempo do vídeo para fornecer uma ferramente
                   online de edição de arquivos de legenda, sincronização de falas e cálculo de caracteres por segundo.
                 </p>
               </div>
